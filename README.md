@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/014e33aa-5570-4955-94aa-3ca2df36b045)
+
 
 <!--
 **wasitakie/wasitakie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
