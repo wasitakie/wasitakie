@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/014e33aa-5570-4955-94aa-3ca2df36b045)
 
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <!--
 **wasitakie/wasitakie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
