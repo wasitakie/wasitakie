@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 - 📫 How to reach me **wasitat.wa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
