@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/014e33aa-5570-4955-94aa-3ca2df36b045)
 
 <h3 align="center">A passionate frontend developer from Thailand</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 - 📫 How to reach me **wasitat.wa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
