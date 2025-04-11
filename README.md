@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/014e33aa-5570-4955-94aa-3ca2df36b045)
 
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate fullstack developer from Thailand</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasitakie&layout=compact)
 
